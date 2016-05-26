@@ -21,14 +21,13 @@ void draw(){
       b++;
     }
     if(key == 't'){
-      thickness += 0.01;
+      thickness += 0.05;
     }
-    
     
     if(r > 255) r = 0;
     if(g > 255) g = 0;
     if(b > 255) b = 0;
-    if(thickness > 10) thickness = 2;
+    if(thickness > 20) thickness = 2;
   }
   
   // draw interface
@@ -41,7 +40,7 @@ void draw(){
 }
 
 void mouseDragged(){
-  stroke(r, g, b, 50);
+  stroke(r, g, b);
   strokeWeight(thickness);
   line(pmouseX, pmouseY, mouseX, mouseY);  
 }
