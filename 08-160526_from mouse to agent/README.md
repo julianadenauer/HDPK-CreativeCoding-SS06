@@ -20,4 +20,7 @@ One last time, we'll focus about drawing on the screen today. We'll start with s
 
 ## 3 Animated Brush
 
+* New drawing tool that draws a shape that drifts towards the mouse and morphs
+* Once in form of a hexagon, once in form of a morphing bezier
+
 
