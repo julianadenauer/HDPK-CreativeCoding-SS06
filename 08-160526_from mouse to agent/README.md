@@ -12,10 +12,11 @@ One last time, we'll focus about drawing on the screen today. We'll start with s
 * Save image to file
  
 ## 2 Drawing with other shapes
-**New Stuff:** beginShape(), endShape(), vertex()
+**New Stuff:** beginShape(), endShape(), vertex(), bezier()
 
 * Add the functionality to change the brush from line to circle
 * Add a custom-shaped brush in form of a hexagon
+* Add a bezier curve as a brush
 
 ## 3 Animated Brush
 
