@@ -33,6 +33,10 @@ One last time, we'll focus about drawing on the screen today. We'll start with s
 
 ## 4 Agent (aka "look ma, no hands!")
 * An autonomous agent draws small circles and changes it direction of movement each time. 
+* Tasks:
+	* use [noise()](https://processing.org/reference/noise_.html) instead of random() to define the movement
+	* make the agent react to its own trail. use the [get() function](https://processing.org/reference/get_.html) for this.
+	* put the agent into a class and start new agents with the click of a mouse (start point should be the mouse positon)
 
 ![image](hdpk_ss16_08_04/hdpk_ss16_08_04.png)
 
