@@ -10,7 +10,9 @@ One last time, we'll focus about drawing on the screen today. We'll start with s
 * Make the line-thickness adjustable with the keyboard using the 't' key or the mouse scoll wheel
 * Show the color and line thickness in a menu top left
 * Save image to file
- 
+
+![image](hdpk_ss16_08_01/hdpk_ss16_08_01.png)
+
 ## 2 Drawing with other shapes
 **New Stuff:** beginShape(), endShape(), vertex(), bezier()
 
@@ -18,9 +20,22 @@ One last time, we'll focus about drawing on the screen today. We'll start with s
 * Add a custom-shaped brush in form of a hexagon
 * Add a bezier curve as a brush
 
+![image](hdpk_ss16_08_02/hdpk_ss16_08_02.png)
+
+
 ## 3 Animated Brush
 
 * New drawing tool that draws a shape that drifts towards the mouse and morphs
 * Once in form of a hexagon, once in form of a morphing bezier
+
+![image](hdpk_ss16_08_03a/hdpk_ss16_08_03a.png)
+![image](hdpk_ss16_08_03b/hdpk_ss16_08_03b.png)
+
+## 4 Agent (aka "look ma, no hands!")
+* An autonomous agent draws small circles and changes it direction of movement each time. 
+
+![image](hdpk_ss16_08_04/hdpk_ss16_08_04.png)
+
+
 
 
