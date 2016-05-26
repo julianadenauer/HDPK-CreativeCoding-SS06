@@ -41,7 +41,7 @@ void draw(){
 }
 
 void mouseDragged(){
-  stroke(r, g, b);
+  stroke(r, g, b, 50);
   strokeWeight(thickness);
   line(pmouseX, pmouseY, mouseX, mouseY);  
 }
