@@ -10,8 +10,8 @@
 ![image](hdpk_ss16_09_02/hdpk_ss16_09_02.png)
 
 ## 3 GIFs!
-**New Stuff:** millis()
-Take ten images and display them after each other in a loop!
+**New Stuff:** millis()  
+Take ten images and display them after each other in a loop!  
 
 ![image](hdpk_ss16_09_03/julian.gif)
 
