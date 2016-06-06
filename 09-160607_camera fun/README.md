@@ -12,6 +12,7 @@
 ## 3 GIFs!
 **New Stuff:** millis()
 Take ten images and display them after each other in a loop!
+
 ![image](hdpk_ss16_09_03/julian.gif)
 
 ## 4 Looking at Pixels
